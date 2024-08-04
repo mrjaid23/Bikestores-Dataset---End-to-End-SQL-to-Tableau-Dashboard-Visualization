@@ -5,7 +5,9 @@
 - [Data Source](#Data-Source)
 - [Objectives](#Objectives)
 - [Tools](#Tools)
+- [Data Collection](#Data-Collection)
 - [Data Cleaning/Preparation](#Data-Cleaning/Preparation)
+- [Data Gathering/Analysis](#Data-Cleaning/Preparation)
 - [Results](#Results)
 - [Insights](#Insights)
 
