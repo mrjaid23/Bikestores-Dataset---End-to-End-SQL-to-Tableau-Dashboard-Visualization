@@ -75,7 +75,7 @@ Detailed analysis was conducted on several dimensions, including:
 - Top Sales Person
 
 ### Insights
-### Insights
-[Tableau Public Link ](https://public.tableau.com/views/BikeStoresExecutiveDashboard_17224005264160/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Interact with the dashboard on my [Tableau Public Link ](https://public.tableau.com/views/BikeStoresExecutiveDashboard_17224005264160/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![alt text](https://github.com/mrjaid23/Bikestores-Dataset---End-to-End-SQL-to-Tableau-Dashboard-Visualization/blob/3f82fd500d0812257c5dcccde4a33097b46302d1/dashboard.jpg)
 
