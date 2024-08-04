@@ -22,6 +22,7 @@ The objective of this project is to design and implement a dynamic and interacti
 
 ### Tools
 - SQL Server Management Studio (SSMS)
+- Excel
 - Tableau
 
 ### Data Collection
