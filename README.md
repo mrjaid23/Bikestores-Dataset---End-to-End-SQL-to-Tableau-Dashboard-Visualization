@@ -1,4 +1,4 @@
-# Bikestores-Dataset---End-to-End-SQL-to-Tableau-Dashboard-Visualization
+# Bikestores Company Dataset
 
 ## Table of Contents
 - [Project Overview](#Project-Overview) 
