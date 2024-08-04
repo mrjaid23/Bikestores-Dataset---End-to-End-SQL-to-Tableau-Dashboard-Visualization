@@ -74,5 +74,8 @@ Detailed analysis was conducted on several dimensions, including:
 - Store Performance: Assessment of sales performance by store location and sales representative efficiency.
 - Top Sales Person
 
-### Results
+### Insights
+### Insights
+[Tableau Public Link ](https://public.tableau.com/views/BikeStoresExecutiveDashboard_17224005264160/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
