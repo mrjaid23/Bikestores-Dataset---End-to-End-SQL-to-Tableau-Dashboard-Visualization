@@ -8,7 +8,6 @@
 - [Data Collection](#Data-Collection)
 - [Data Cleaning/Preparation](#Data-Cleaning/Preparation)
 - [Data Gathering/Analysis](#Data-Gathering/Analysis)
-- [Results](#Results)
 - [Insights](#Insights)
 
 ### Project Overview 
